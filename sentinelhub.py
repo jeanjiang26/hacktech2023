@@ -2,7 +2,7 @@
 # use the SentinelHub Python package to access the API and download the data
 
 # specifically for los angeles
-#from sentinelhub import *
+# from sentinelhub import *
 # import sentinelhub
 from sentinelhub import MimeType
 from sentinelhub import SentinelHubRequest, DataCollection, bbox_to_dimensions, BBox, CRS
@@ -48,5 +48,6 @@ request = SentinelHubRequest(
 request.download_all()
 
 
-# !!!!!!!!!
-# Note that you will need to replace your_evalscript with the actual evalscript you want to use to process the data, and data_folder with the path to the folder where you want to save the downloaded data.
+# TO DO
+# Note that you will need to replace your_evalscript with the actual evalscript you want to use to process the data, and data_folder with the path to the folder where you want to save the downloaded data
+# Specify the path to the folder where you want to save the downloaded data, instead of using data_folder='data_folder'

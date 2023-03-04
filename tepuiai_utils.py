@@ -1,0 +1,1 @@
+#  define utility functions for interacting with Tepui AI API, such as retrieving environmental indicators based on the satellite imagery data, analyzing the data using machine learning models, and generating recommendations for green roofs and urban greenery.

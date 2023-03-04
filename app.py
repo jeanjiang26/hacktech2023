@@ -1,2 +1,2 @@
-# main file that runs the website backend
-# code to handle HTTP requests, process user input, and call the other functions to get the data and generate the responses
+# define the Flask or Django application and handle requests from the frontend
+# contain routes for different endpoints, such as requesting satellite imagery data, processing the data to detect urban heat islands, and generating recommendations for green roofs and urban greenery

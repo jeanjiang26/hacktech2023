@@ -1,1 +1,0 @@
-# define utility functions for interacting with SentinelHub API, such as retrieving satellite imagery data, processing the data using image processing techniques, and extracting relevant features from the data

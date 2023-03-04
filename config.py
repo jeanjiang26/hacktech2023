@@ -1,0 +1,1 @@
+# contain all the configuration variables for your project, such as API keys and access tokens. You can use this file to store sensitive information that you don't want to hardcode into your main Python files.

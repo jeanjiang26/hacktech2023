@@ -1,0 +1,1 @@
+lists all the Python packages that are required for your project. You should include all the packages needed to interact with the SentinelHub API and the GHGSat AI model, as well as any other dependencies your project may have.

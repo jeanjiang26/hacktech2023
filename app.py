@@ -1,2 +1,0 @@
-# define the Flask application and create routes to handle incoming requests
-# include routes to handle requests for fetching satellite images from SentinelHub API, running the UHI Net learning model to identify urban heat islands, and providing recommendations for where green roofs can be implemented based on the model output

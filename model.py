@@ -1,1 +1,0 @@
-# contain the UHI Net learning model code for making predictions on the input satellite image data

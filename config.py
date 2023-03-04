@@ -1,1 +1,0 @@
-# contain configuration settings for the application, such as API keys, paths to model files, and server settings

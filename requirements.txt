@@ -1,1 +1,4 @@
-lists all the Python packages that are required for your project. You should include all the packages needed to interact with the SentinelHub API and the GHGSat AI model, as well as any other dependencies your project may have.
+sentinelhub>=3.0.0
+numpy>=1.20.0
+matplotlib>=3.3.4
+Pillow>=8.1.0

@@ -1,0 +1,216 @@
+New York
+Los Angeles
+Chicago
+Houston
+Phoenix
+Philadelphia
+San Antonio
+San Diego
+Dallas
+San Jose
+Austin
+Jacksonville
+Fort Worth
+Columbus
+San Francisco
+Charlotte
+Indianapolis
+Seattle
+Denver
+Washington
+Boston
+Nashville
+El Paso
+Detroit
+Memphis
+Portland
+Oklahoma City
+Las Vegas
+Louisville
+Baltimore
+Milwaukee
+Albuquerque
+Tucson
+Fresno
+Mesa
+Sacramento
+Atlanta
+Kansas City
+Colorado Springs
+Miami
+Raleigh
+Omaha
+Long Beach
+Virginia Beach
+Oakland
+Minneapolis
+Tulsa
+Wichita
+New Orleans
+Arlington
+Tampa
+Santa Ana
+St. Louis
+Pittsburgh
+Corpus Christi
+Riverside
+Cincinnati
+Lexington
+Anchorage
+Stockton
+Toledo
+Saint Paul
+Newark
+Greensboro
+Buffalo
+Plano
+Lincoln
+Henderson
+Fort Wayne
+Jersey City
+St. Petersburg
+Chula Vista
+Norfolk
+Orlando
+Chandler
+Laredo
+Madison
+Winston-Salem
+Lubbock
+Baton Rouge
+Durham
+Garland
+Glendale
+Reno
+Hialeah
+Chesapeake
+Scottsdale
+North Las Vegas
+Irving
+Fremont
+Irvine
+Birmingham
+Rochester
+San Bernardino
+Spokane
+Gilbert
+Arlington
+Montgomery
+Boise
+Richmond
+Des Moines
+Modesto
+Fayetteville
+Shreveport
+Akron
+Tacoma
+Aurora
+Oxnard
+Fontana
+Yonkers
+Augusta
+Mobile
+Little Rock
+Moreno Valley
+Glendale
+Amarillo
+Huntington Beach
+Columbus
+Grand Rapids
+Salt Lake City
+Tallahassee
+Worcester
+Newport News
+Huntsville
+Knoxville
+Providence
+Santa Clarita
+Grand Prairie
+Brownsville
+Jackson
+Overland Park
+Garden Grove
+Santa Rosa
+Chattanooga
+Oceanside
+Fort Lauderdale
+Rancho Cucamonga
+Port St. Lucie
+Tempe
+Ontario
+Vancouver
+Cape Coral
+Sioux Falls
+Springfield
+Peoria
+Pembroke Pines
+Elk Grove
+Salem
+Lancaster
+Corona
+Eugene
+Palmdale
+Salinas
+Springfield
+Pasadena
+Fort Collins
+Hayward
+Pomona
+Cary
+Alexandria
+Escondido
+Sunnyvale
+Lakewood
+Kansas City
+Rockford
+Torrence
+Hollywood
+Joliet
+Clarksville
+Lansing
+Berkeley
+Peoria
+Fairfield
+Waterbury
+Inglewood
+West Covina
+Gresham
+Daly City
+Norwalk
+Burbank
+Compton
+San Mateo
+Rialto
+El Cajon
+Los Gatos
+Burlington
+Pittsburg
+Perris
+La Puente
+Buena Park
+South Gate
+Cypress
+National City
+San Gabriel
+South Pasadena
+Lynwood
+Maywood
+San Jacinto
+Oakley
+Monte Sereno
+Solana Beach
+Laguna Hills
+Carpinteria
+Lomita
+Eastvale
+Rolling Hills Estates
+La Palma
+Hawaiian Gardens
+Hidden Hills
+Rancho Santa Margarita
+Malibu
+Manhattan Beach
+Sierra Madre
+Westlake Village
+Cotati
+Lathrop

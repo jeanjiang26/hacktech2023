@@ -1,0 +1,216 @@
+New York: Temperature=276.63, Humidity=69, WindSpeed=5.66
+Los Angeles: Temperature=283.82, Humidity=70, WindSpeed=5.14
+Chicago: Temperature=275.09, Humidity=91, WindSpeed=2.57
+Houston: Temperature=288.1, Humidity=84, WindSpeed=6.17
+Phoenix: Temperature=285.81, Humidity=49, WindSpeed=3.6
+Philadelphia: Temperature=275.06, Humidity=76, WindSpeed=1.54
+San Antonio: Temperature=288.55, Humidity=70, WindSpeed=3.09
+San Diego: Temperature=284.36, Humidity=77, WindSpeed=3.13
+Dallas: Temperature=287.95, Humidity=67, WindSpeed=2.57
+San Jose: Temperature=279.33, Humidity=76, WindSpeed=3.6
+Austin: Temperature=289.42, Humidity=75, WindSpeed=2.68
+Jacksonville: Temperature=292.42, Humidity=91, WindSpeed=2.57
+Fort Worth: Temperature=287.73, Humidity=73, WindSpeed=2.57
+Columbus: Temperature=276.67, Humidity=79, WindSpeed=2.57
+San Francisco: Temperature=281.16, Humidity=78, WindSpeed=7.72
+Charlotte: Temperature=281.93, Humidity=60, WindSpeed=2.06
+Indianapolis: Temperature=278.19, Humidity=83, WindSpeed=2.57
+Seattle: Temperature=275.93, Humidity=85, WindSpeed=1.34
+Denver: Temperature=271.24, Humidity=77, WindSpeed=1.86
+Washington: Temperature=272.84, Humidity=83, WindSpeed=0.76
+Boston: Temperature=271.66, Humidity=88, WindSpeed=3.09
+Nashville: Temperature=279.75, Humidity=76, WindSpeed=0
+El Paso: Temperature=285.64, Humidity=22, WindSpeed=4.63
+Detroit: Temperature=276.25, Humidity=89, WindSpeed=3.6
+Memphis: Temperature=282.42, Humidity=82, WindSpeed=1.54
+Portland: Temperature=276.08, Humidity=93, WindSpeed=2.57
+Oklahoma City: Temperature=283.99, Humidity=79, WindSpeed=4.12
+Las Vegas: Temperature=284.31, Humidity=38, WindSpeed=9.26
+Louisville: Temperature=278.19, Humidity=71, WindSpeed=1.31
+Baltimore: Temperature=275.46, Humidity=84, WindSpeed=0
+Milwaukee: Temperature=274.05, Humidity=87, WindSpeed=3.6
+Albuquerque: Temperature=282.91, Humidity=28, WindSpeed=5.66
+Tucson: Temperature=284.68, Humidity=49, WindSpeed=3.6
+Fresno: Temperature=281.3, Humidity=77, WindSpeed=1.54
+Mesa: Temperature=285.3, Humidity=54, WindSpeed=3.6
+Sacramento: Temperature=279.7, Humidity=77, WindSpeed=4.63
+Atlanta: Temperature=283.78, Humidity=53, WindSpeed=4.12
+Kansas City: Temperature=279.28, Humidity=63, WindSpeed=2.57
+Colorado Springs: Temperature=273.18, Humidity=68, WindSpeed=4.12
+Miami: Temperature=295.32, Humidity=78, WindSpeed=0
+Raleigh: Temperature=281.15, Humidity=66, WindSpeed=0.45
+Omaha: Temperature=275.18, Humidity=72, WindSpeed=3.6
+Long Beach: Temperature=284.54, Humidity=74, WindSpeed=1.34
+Virginia Beach: Temperature=282.74, Humidity=61, WindSpeed=5.14
+Oakland: Temperature=275.41, Humidity=90, WindSpeed=3.13
+Minneapolis: Temperature=267.59, Humidity=86, WindSpeed=0.89
+Tulsa: Temperature=282.82, Humidity=71, WindSpeed=1.34
+Wichita: Temperature=282.07, Humidity=59, WindSpeed=2.57
+New Orleans: Temperature=289.52, Humidity=70, WindSpeed=0.89
+Arlington: Temperature=287.63, Humidity=70, WindSpeed=1.79
+Tampa: Temperature=295.94, Humidity=86, WindSpeed=2.57
+Santa Ana: Temperature=284.13, Humidity=76, WindSpeed=0
+St. Louis: Temperature=278.7, Humidity=81, WindSpeed=0
+Pittsburgh: Temperature=277.71, Humidity=79, WindSpeed=2.06
+Corpus Christi: Temperature=289.88, Humidity=90, WindSpeed=2.57
+Riverside: Temperature=283.18, Humidity=49, WindSpeed=6.17
+Cincinnati: Temperature=277.88, Humidity=70, WindSpeed=0.45
+Lexington: Temperature=276.92, Humidity=75, WindSpeed=1.54
+Anchorage: Temperature=259.48, Humidity=71, WindSpeed=0.89
+Stockton: Temperature=279.42, Humidity=67, WindSpeed=4.12
+Toledo: Temperature=280.99, Humidity=43, WindSpeed=1.16
+Saint Paul: Temperature=267.64, Humidity=87, WindSpeed=0
+Newark: Temperature=276.46, Humidity=70, WindSpeed=4.63
+Greensboro: Temperature=279.05, Humidity=69, WindSpeed=2.06
+Buffalo: Temperature=274.16, Humidity=86, WindSpeed=2.39
+Plano: Temperature=287.29, Humidity=70, WindSpeed=3.6
+Lincoln: Temperature=275.73, Humidity=70, WindSpeed=2.24
+Henderson: Temperature=284.58, Humidity=37, WindSpeed=8.75
+Fort Wayne: Temperature=277.75, Humidity=91, WindSpeed=4.63
+Jersey City: Temperature=276.51, Humidity=70, WindSpeed=5.66
+St. Petersburg: Temperature=271.51, Humidity=91, WindSpeed=2
+Chula Vista: Temperature=284.37, Humidity=78, WindSpeed=2.57
+Norfolk: Temperature=271.33, Humidity=90, WindSpeed=2.06
+Orlando: Temperature=295.74, Humidity=81, WindSpeed=3.09
+Chandler: Temperature=285.24, Humidity=58, WindSpeed=3.09
+Laredo: Temperature=291.31, Humidity=63, WindSpeed=4.63
+Madison: Temperature=281.53, Humidity=71, WindSpeed=4.02
+Winston-Salem: Temperature=278.84, Humidity=66, WindSpeed=3.09
+Lubbock: Temperature=282.05, Humidity=47, WindSpeed=5.14
+Baton Rouge: Temperature=285.91, Humidity=73, WindSpeed=1.54
+Durham: Temperature=279.72, Humidity=76, WindSpeed=0.45
+Garland: Temperature=287.4, Humidity=70, WindSpeed=3.6
+Glendale: Temperature=285.43, Humidity=51, WindSpeed=3.6
+Reno: Temperature=269.78, Humidity=72, WindSpeed=4.92
+Hialeah: Temperature=294.96, Humidity=76, WindSpeed=0
+Chesapeake: Temperature=282.88, Humidity=55, WindSpeed=5.81
+Scottsdale: Temperature=285.36, Humidity=51, WindSpeed=3.6
+North Las Vegas: Temperature=284.58, Humidity=38, WindSpeed=9.26
+Irving: Temperature=287.91, Humidity=69, WindSpeed=2.57
+Fremont: Temperature=279.93, Humidity=74, WindSpeed=4.12
+Irvine: Temperature=284.18, Humidity=79, WindSpeed=2.73
+Birmingham: Temperature=284, Humidity=73, WindSpeed=0
+Rochester: Temperature=273.75, Humidity=93, WindSpeed=2.51
+San Bernardino: Temperature=280.63, Humidity=52, WindSpeed=1.37
+Spokane: Temperature=273.25, Humidity=59, WindSpeed=2.57
+Gilbert: Temperature=285.19, Humidity=57, WindSpeed=3.09
+Arlington: Temperature=287.63, Humidity=70, WindSpeed=1.79
+Montgomery: Temperature=274.73, Humidity=82, WindSpeed=0
+Boise: Temperature=273.85, Humidity=91, WindSpeed=7.72
+Richmond: Temperature=276.38, Humidity=79, WindSpeed=3.6
+Des Moines: Temperature=273.14, Humidity=84, WindSpeed=0
+Modesto: Temperature=279.25, Humidity=91, WindSpeed=1.54
+Fayetteville: Temperature=283.09, Humidity=60, WindSpeed=3.09
+Shreveport: Temperature=285, Humidity=69, WindSpeed=2.57
+Akron: Temperature=276.45, Humidity=77, WindSpeed=2.06
+Tacoma: Temperature=274.66, Humidity=86, WindSpeed=1.79
+Aurora: Temperature=271.15, Humidity=75, WindSpeed=3.09
+Oxnard: Temperature=281.95, Humidity=83, WindSpeed=4.63
+Fontana: Temperature=281.62, Humidity=81, WindSpeed=5.14
+Yonkers: Temperature=276.15, Humidity=71, WindSpeed=5.66
+Augusta: Temperature=273.28, Humidity=85, WindSpeed=1.54
+Mobile: Temperature=285.93, Humidity=75, WindSpeed=1.54
+Little Rock: Temperature=282.4, Humidity=86, WindSpeed=0
+Moreno Valley: Temperature=280.45, Humidity=84, WindSpeed=3.6
+Glendale: Temperature=285.43, Humidity=51, WindSpeed=3.6
+Amarillo: Temperature=279.73, Humidity=53, WindSpeed=7.2
+Huntington Beach: Temperature=284.45, Humidity=77, WindSpeed=4.47
+Columbus: Temperature=276.7, Humidity=79, WindSpeed=2.57
+Grand Rapids: Temperature=275.5, Humidity=93, WindSpeed=4.63
+Salt Lake City: Temperature=274.8, Humidity=86, WindSpeed=4.12
+Tallahassee: Temperature=287.27, Humidity=91, WindSpeed=0
+Worcester: Temperature=270.46, Humidity=89, WindSpeed=1.54
+Newport News: Temperature=282.38, Humidity=59, WindSpeed=4.63
+Huntsville: Temperature=281.74, Humidity=72, WindSpeed=4.02
+Knoxville: Temperature=279.8, Humidity=70, WindSpeed=1.54
+Providence: Temperature=271.86, Humidity=91, WindSpeed=3.09
+Santa Clarita: Temperature=280.5, Humidity=81, WindSpeed=2.53
+Grand Prairie: Temperature=287.75, Humidity=71, WindSpeed=2.57
+Brownsville: Temperature=288.74, Humidity=92, WindSpeed=0
+Jackson: Temperature=274.49, Humidity=93, WindSpeed=1.54
+Overland Park: Temperature=278.94, Humidity=65, WindSpeed=4.12
+Garden Grove: Temperature=284.29, Humidity=75, WindSpeed=0
+Santa Rosa: Temperature=303.13, Humidity=61, WindSpeed=6.86
+Chattanooga: Temperature=279.75, Humidity=84, WindSpeed=0
+Oceanside: Temperature=284.23, Humidity=70, WindSpeed=2.68
+Fort Lauderdale: Temperature=295.03, Humidity=76, WindSpeed=0
+Rancho Cucamonga: Temperature=281.76, Humidity=81, WindSpeed=5.14
+Port St. Lucie: Temperature=292.68, Humidity=70, WindSpeed=0.45
+Tempe: Temperature=285.54, Humidity=54, WindSpeed=3.6
+Ontario: Temperature=282.23, Humidity=81, WindSpeed=5.14
+Vancouver: Temperature=277.45, Humidity=81, WindSpeed=4.63
+Cape Coral: Temperature=294.21, Humidity=93, WindSpeed=0.45
+Sioux Falls: Temperature=268.31, Humidity=89, WindSpeed=2.01
+Springfield: Temperature=279.09, Humidity=83, WindSpeed=3.09
+Peoria: Temperature=275.72, Humidity=94, WindSpeed=1.54
+Pembroke Pines: Temperature=294.8, Humidity=80, WindSpeed=0
+Elk Grove: Temperature=279.73, Humidity=76, WindSpeed=4.63
+Salem: Temperature=305.26, Humidity=22, WindSpeed=1.54
+Lancaster: Temperature=273.29, Humidity=83, WindSpeed=2.06
+Corona: Temperature=282.62, Humidity=78, WindSpeed=3.6
+Eugene: Temperature=274.19, Humidity=92, WindSpeed=2.57
+Palmdale: Temperature=278.54, Humidity=75, WindSpeed=4.63
+Salinas: Temperature=279.71, Humidity=83, WindSpeed=2.06
+Springfield: Temperature=279.09, Humidity=83, WindSpeed=3.09
+Pasadena: Temperature=287.75, Humidity=80, WindSpeed=6.17
+Fort Collins: Temperature=270.52, Humidity=76, WindSpeed=3.09
+Hayward: Temperature=280.1, Humidity=76, WindSpeed=7.72
+Pomona: Temperature=282.58, Humidity=80, WindSpeed=5.14
+Cary: Temperature=280.54, Humidity=66, WindSpeed=0.45
+Alexandria: Temperature=286.45, Humidity=44, WindSpeed=3.84
+Escondido: Temperature=282.8, Humidity=81, WindSpeed=2.24
+Sunnyvale: Temperature=279.44, Humidity=78, WindSpeed=3.6
+Lakewood: Temperature=271.22, Humidity=77, WindSpeed=0.31
+Kansas City: Temperature=279.28, Humidity=63, WindSpeed=2.57
+Rockford: Temperature=272.95, Humidity=89, WindSpeed=2.97
+Failed to retrieve weather data for Torrence.
+Hollywood: Temperature=283.46, Humidity=74, WindSpeed=5.14
+Joliet: Temperature=274.1, Humidity=96, WindSpeed=2.06
+Clarksville: Temperature=278.7, Humidity=86, WindSpeed=0
+Lansing: Temperature=275.84, Humidity=90, WindSpeed=3.6
+Berkeley: Temperature=280.53, Humidity=80, WindSpeed=7.72
+Peoria: Temperature=275.72, Humidity=94, WindSpeed=1.54
+Fairfield: Temperature=274.54, Humidity=83, WindSpeed=1.54
+Waterbury: Temperature=274.28, Humidity=88, WindSpeed=0
+Inglewood: Temperature=284.24, Humidity=74, WindSpeed=5.14
+West Covina: Temperature=283.58, Humidity=75, WindSpeed=2.52
+Gresham: Temperature=275.45, Humidity=92, WindSpeed=2.57
+Daly City: Temperature=280.6, Humidity=76, WindSpeed=5.81
+Norwalk: Temperature=284.36, Humidity=76, WindSpeed=0.45
+Burbank: Temperature=282.77, Humidity=73, WindSpeed=1.54
+Compton: Temperature=284.52, Humidity=74, WindSpeed=5.14
+San Mateo: Temperature=277.15, Humidity=81, WindSpeed=5.66
+Rialto: Temperature=281.5, Humidity=82, WindSpeed=3.6
+El Cajon: Temperature=283.28, Humidity=76, WindSpeed=1.54
+Los Gatos: Temperature=278.78, Humidity=80, WindSpeed=3.13
+Burlington: Temperature=274.42, Humidity=77, WindSpeed=2.06
+Pittsburg: Temperature=280.41, Humidity=74, WindSpeed=4.63
+Perris: Temperature=280.36, Humidity=88, WindSpeed=1.54
+La Puente: Temperature=283.68, Humidity=76, WindSpeed=2.59
+Buena Park: Temperature=284.36, Humidity=76, WindSpeed=0
+South Gate: Temperature=284.36, Humidity=69, WindSpeed=5.14
+Cypress: Temperature=284.48, Humidity=75, WindSpeed=0.45
+National City: Temperature=284.34, Humidity=78, WindSpeed=2.57
+San Gabriel: Temperature=283.38, Humidity=71, WindSpeed=1.54
+South Pasadena: Temperature=282.9, Humidity=72, WindSpeed=1.54
+Lynwood: Temperature=284.42, Humidity=74, WindSpeed=5.14
+Maywood: Temperature=284.21, Humidity=72, WindSpeed=2.06
+San Jacinto: Temperature=280.27, Humidity=84, WindSpeed=2.24
+Oakley: Temperature=280.15, Humidity=70, WindSpeed=3.13
+Monte Sereno: Temperature=278.46, Humidity=80, WindSpeed=3.13
+Solana Beach: Temperature=284.18, Humidity=76, WindSpeed=6.71
+Laguna Hills: Temperature=283.4, Humidity=83, WindSpeed=0.89
+Carpinteria: Temperature=281.14, Humidity=76, WindSpeed=3.16
+Lomita: Temperature=284.42, Humidity=73, WindSpeed=5.14
+Eastvale: Temperature=282.78, Humidity=79, WindSpeed=5.14
+Rolling Hills Estates: Temperature=283.66, Humidity=73, WindSpeed=5.14
+La Palma: Temperature=284.46, Humidity=76, WindSpeed=0.45
+Hawaiian Gardens: Temperature=284.49, Humidity=76, WindSpeed=1.34
+Hidden Hills: Temperature=280.93, Humidity=81, WindSpeed=4.02
+Rancho Santa Margarita: Temperature=282.08, Humidity=83, WindSpeed=0.45
+Malibu: Temperature=282.44, Humidity=87, WindSpeed=3.45
+Manhattan Beach: Temperature=284.58, Humidity=74, WindSpeed=5.14
+Sierra Madre: Temperature=282.5, Humidity=69, WindSpeed=2.27
+Westlake Village: Temperature=280.49, Humidity=82, WindSpeed=2.02
+Cotati: Temperature=279.74, Humidity=78, WindSpeed=1.79
+Lathrop: Temperature=279.35, Humidity=72, WindSpeed=4.12
